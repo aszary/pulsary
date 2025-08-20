@@ -7,3 +7,7 @@ Film o pulsarach w technologii FullDome
 
 - https://store.steampowered.com/app/314650/SpaceEngine
 - https://store.steampowered.com/app/1026970/SpaceEngine_PRO/
+
+# Animacje
+- https://www.astron.nl/pulsars/animations/
+- https://www.eso.org/public/poland/videos/archive/category/fulldome
