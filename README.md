@@ -1,4 +1,4 @@
-# pulsary
+# PULSARY
 Film o pulsarach w technologii FullDome
 
 # Oprogramowanie
