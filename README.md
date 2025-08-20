@@ -7,6 +7,7 @@ Film o pulsarach w technologii FullDome
 
 - https://store.steampowered.com/app/314650/SpaceEngine
 - https://store.steampowered.com/app/1026970/SpaceEngine_PRO/
+- https://imersa.org/dome-production-tools
 
 # Animacje
 - https://www.astron.nl/pulsars/animations/
@@ -14,4 +15,7 @@ Film o pulsarach w technologii FullDome
 - https://svs.gsfc.nasa.gov/20267/
 - https://www.youtube.com/watch?v=PYsx8xUFOSk
 - https://svs.gsfc.nasa.gov/11567
+- https://svs.gsfc.nasa.gov/10861/
+- https://www.eso.org/public/poland/videos/pulsar-star-HEU/?lang
+- https://esahubble.org/videos/archive/category/fulldome/
 - 
