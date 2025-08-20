@@ -12,3 +12,6 @@ Film o pulsarach w technologii FullDome
 - https://www.astron.nl/pulsars/animations/
 - https://www.eso.org/public/poland/videos/archive/category/fulldome
 - https://svs.gsfc.nasa.gov/20267/
+- https://www.youtube.com/watch?v=PYsx8xUFOSk
+- https://svs.gsfc.nasa.gov/11567
+- 
