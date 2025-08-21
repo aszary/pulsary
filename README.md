@@ -10,7 +10,11 @@ Film o pulsarach w technologii FullDome
 - https://imersa.org/dome-production-tools
 - https://arxiv.org/abs/1306.3481
 - https://arxiv.org/abs/2501.02919
+- https://www.youtube.com/watch?v=fsSTqBQi8Ts
+- https://chandra.harvard.edu/resources/illustrations/3d_files.html
+- https://imagetostl.com/convert/file/stl/to/blend
 - 
+
 
 # Animacje
 - https://www.astron.nl/pulsars/animations/
